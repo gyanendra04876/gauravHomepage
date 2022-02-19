@@ -1,0 +1,22 @@
+.container{
+    margin: 20px;
+    
+}
+nav{
+    height: 65px;
+}
+
+img{
+    height: auto;
+    width: 35%;
+}
+last{
+    border-color: red;
+}
+.row{
+    width: 1600px;
+}
+form.form-group{
+    max-width: 300px;
+  margin: auto;
+}
